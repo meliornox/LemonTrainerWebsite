@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 5px;
+    background-color: #fdfff4;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+body {
+    padding: 20px;
+    max-width: 850px;
+    width: 50%;
+    margin: 0 auto;
+}
+
+#titleBar {
+    padding: 0px;
+    border-bottom: 2px solid gold;
+}
+
+#title {
+    align-content: center;
+    color: red;
+}
+
+p {
+    line-height: 20px;
+}
+
+a {
+    margin-top: 100px;
+    padding: 10px;
+}
+
+a {
+  color: cadetblue;
+  text-decoration: none; /* no underline */
+}
+
+.Link {
+    font-weight: 600;
+}
+
+.Image img{
+    padding: 0px;
+    margin: 0px;
+    max-width: 100%;
+}
+
+#video {
+    max-width: 100%;
+}
